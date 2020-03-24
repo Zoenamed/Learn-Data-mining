@@ -1,5 +1,7 @@
 # Learn-Data-mining
 Notes from Datawhale
 
-Day 1
+#### Task1：赛题理解
+
+#### Task2：数据分析
 
