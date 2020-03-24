@@ -51,5 +51,5 @@
 
 ##### 		[b. scipy.stats中常用分布介绍](https://blog.csdn.net/pipisorry/article/details/49515215?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 
-##### 		c. seaborn统计数据可视化
+##### 		[c. seaborn统计数据可视化](https://github.com/Zoenamed/Learn-Data-mining/blob/master/2.%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/seaborn%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96.ipynb)
 
