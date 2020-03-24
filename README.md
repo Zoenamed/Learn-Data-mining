@@ -7,7 +7,7 @@ notes from datawhale
 - 赛题理解笔记整理
 - 各类问题的常用评价指标详细介绍
 
-#### 2.[EDA](https://github.com/Zoenamed/Learn-Data-mining/tree/master/2.%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
+#### 2.[EDA](https://github.com/Zoenamed/Learn-Data-mining/tree/master/2.EDA)
 
 - 简介
 - 补充
