@@ -45,7 +45,9 @@
 
 5. 用pandas_profiling生成数据报告
 
-#### 3. 补充
+#### 3. [源代码](https://github.com/Zoenamed/Learn-Data-mining/blob/master/2.EDA/Task2%20EDA.ipynb)
+
+#### 4. 补充
 
 ##### 			[a. 零基础统计入门](https://github.com/Zoenamed/Learn-Data-mining/tree/master/2.EDA/%E9%9B%B6%E5%9F%BA%E7%A1%80%E7%BB%9F%E8%AE%A1%E5%85%A5%E9%97%A8)
 
