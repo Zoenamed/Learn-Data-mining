@@ -28,7 +28,7 @@
 
 4. [code](https://github.com/Zoenamed/Learn-Data-mining/blob/master/3.%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B/Task3%20%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B.ipynb)
 
-5.补充：
+5.补充（ 转于ApacheCN）：
 
 
 （1）特征选择 —— 也叫特征子集选择（FSS，Feature Subset Selection）。
