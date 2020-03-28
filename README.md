@@ -15,5 +15,5 @@ notes from datawhale
   - scipy.stats中常用分布介绍
   - seaborn统计数据可视化
 
-#### 3.Baseline
+#### 3.[特征工程](https://github.com/Zoenamed/Learn-Data-mining/tree/master/3.%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B)
 
