@@ -40,6 +40,9 @@
 
 指的是使用计算机提取图像信息，决定每个图像的点是否属于一个图像特征。特征提取的结果是把图像上的点分为不同的子集，这些子集往往属于孤立的点，连续的曲线或者连续的区域。
 
+挂一张大佬的图
+![12](https://github.com/Zoenamed/Learn-Data-mining/blob/master/img/12.jpg)
+
 ```{.python .input}
 
 ```
